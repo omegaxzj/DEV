@@ -70,5 +70,7 @@ namespace Script
                 Debug.Log("Hit");
             }
         }
+        
+        
     }
 }
